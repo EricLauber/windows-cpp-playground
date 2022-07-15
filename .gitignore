@@ -47,3 +47,6 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
+
+# And also this
+.vscode/*
